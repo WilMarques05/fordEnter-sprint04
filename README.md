@@ -1,4 +1,4 @@
-# Ford << Enter >> - Sprint 04: Versionamento com Git
+# Ford<Enter> - Sprint 04: Versionamento com Git
 
 Este repositório foi desenvolvido como parte da **Sprint 04** do curso de Front-End do programa **Ford <Enter>**, uma iniciativa realizada em parceria entre a **Ford** e o **SENAI/CIMATEC**.
 
