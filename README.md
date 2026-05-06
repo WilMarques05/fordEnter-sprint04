@@ -19,6 +19,3 @@ Durante esta sprint, foram exercitados conceitos fundamentais como:
 3.  Criação e navegação entre *branches*.
 4.  Resolução de conflitos e boas práticas de mensagens de commit.
 5.  Sincronização entre ambiente local e remoto (push/pull).
-
----
-Desenvolvido por [Wilson Marques](https://github.com/WilMarques05) como parte da jornada de aprendizado no programa Ford <Enter>.
